@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string name="normal_list_view">Normal List View</string>
+    <string name="customized_list_view">Customized List View</string>
+</resources>
